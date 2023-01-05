@@ -1,3 +1,7 @@
+'''
+WEB SCRAPING FROM INSIGHT CRIME USING BEAUTIFULSOUP (all pages focused on get infos about arms trafficking in South America)
+'''
+
 import requests
 from bs4 import BeautifulSoup
 
