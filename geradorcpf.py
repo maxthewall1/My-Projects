@@ -1,6 +1,6 @@
 '''
 
-GERADOR DE CPF
+GERADOR DE CPF (BRAZLIAN ID GENERATOR)
 
 '''
 from random import randint
